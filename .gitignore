@@ -1,0 +1,13 @@
+﻿# gerado no backup 22/10/2026
+node_modules/
+node_modules (1)/
+dist/
+build/
+.next/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+.vscode/
+.copilot/
